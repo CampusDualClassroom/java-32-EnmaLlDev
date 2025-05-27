@@ -1,0 +1,5 @@
+This is a
+multi-line string
+to check
+multi-line string
+saved file.
